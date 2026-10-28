@@ -1,6 +1,6 @@
 ## Hi, I'm Levi
-  -backend developer with experience in building high-load services\n
-  -I’ve been in the IT field for 3 years now.
+ backend developer with experience in building high-load services.
+ I’ve been in the IT field for 3 years now.
 
 ## Skills:
 ### Programming languages
