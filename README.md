@@ -1,8 +1,12 @@
-## Hi there 👋
+## Hi, I'm Levi
+backend developer with experience in building high-load services
+I’ve been in the IT field for 3 years now.
 
+## Skills:
+### Programming languages
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-Here are some ideas to get you started:
-
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Elixir](https://img.shields.io/badge/elixir-%238847B9.svg?style=for-the-badge&logo=elixir&logoColor=white)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
